@@ -9,7 +9,7 @@ Welcome to the Doulet Media OGS Group! By participating in our group, you agree 
 - **Respect Others**: Members must treat others with respect and avoid offensive, harmful, or inappropriate behavior. Harassment, hate speech, and trolling are strictly prohibited.
 - **Relevant Topics**: Discussions and content should be relevant to the group’s purpose, including Go (Baduk), OGS tools, and Doulet Media projects.
 - **No Spamming**: Posting unsolicited advertisements, irrelevant links, or excessive promotional content is not allowed.
-- **Follow OGS Rules**: All activities within the group must comply with the [OGS Terms of Service](https://online-go.com/terms).
+- **Follow OGS Rules**: All activities within the group must comply with the [OGS Terms of Service]([https://online-go.com/terms](https://online-go.com/docs/terms-of-service)).
 
 ---
 
