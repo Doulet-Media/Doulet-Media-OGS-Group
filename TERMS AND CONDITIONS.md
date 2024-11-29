@@ -22,7 +22,7 @@ Welcome to the Doulet Media OGS Group! By participating in our group, you agree 
   - Repeat offenses after expulsion will result in further consequences, including potentially making the group private, requiring admin approval for membership, and banning the user permanently.
 
 ### Example Incident
-- The member **PBI Supreme Club** ([profile link](https://online-go.com/player/1570551/)) joined and was expelled from a private tournament twice. As a result, they were expelled from the group.  
+- The member **PBI Supreme Club** ([profile link](https://online-go.com/player/1362763/) joined and was expelled from a private tournament twice. As a result, they were expelled from the group.  
   - Further infractions by the same member will result in stricter measures, as outlined above.
 
 ---
