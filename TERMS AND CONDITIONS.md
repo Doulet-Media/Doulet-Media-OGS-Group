@@ -7,9 +7,9 @@ Welcome to the Doulet Media OGS Group! By participating in our group, you agree 
 ## 1. Membership and Conduct
 
 - **Respect Others**: Members must treat others with respect and avoid offensive, harmful, or inappropriate behavior. Harassment, hate speech, and trolling are strictly prohibited.
-- **Relevant Topics**: Discussions and content should be relevant to the group’s purpose, including Go (Baduk), OGS tools, and Doulet Media projects.
+- **Relevant Topics**: Discussions and content should be relevant to the group’s purpose, including Go (Baduk), OGS tools, Doulet Media projects, and AI-related content.
 - **No Spamming**: Posting unsolicited advertisements, irrelevant links, or excessive promotional content is not allowed.
-- **Follow OGS Rules**: All activities within the group must comply with the [OGS Terms of Service]([https://online-go.com/terms](https://online-go.com/docs/terms-of-service)).
+- **Follow OGS Rules**: All activities within the group must comply with the [OGS Terms of Service](https://online-go.com/docs/terms-of-service).
 
 ---
 
@@ -20,9 +20,10 @@ Welcome to the Doulet Media OGS Group! By participating in our group, you agree 
 - **Warning and Expulsion Policy**: 
   - If a user **joins and is expelled from a private tournament twice**, they will be **expelled from the group** entirely. 
   - Repeat offenses after expulsion will result in further consequences, including potentially making the group private, requiring admin approval for membership, and banning the user permanently.
+- **Public Group Note**: As of March 5, 2025, the Doulet Media OGS Group is now **PUBLIC**! Anyone is welcome to join and enjoy playing Go with us! However, please avoid joining tournaments marked with **(No join)** to prevent any issues that could lead to bans by the admin team.
 
 ### Example Incident
-- The member **PBI Supreme Club** ([profile link](https://online-go.com/player/1362763/) joined and was expelled from a private tournament twice. As a result, they were expelled from the group.  
+- The member **PBI Supreme Club** ([profile link](https://online-go.com/player/1362763/)) joined and was expelled from a private tournament twice. As a result, they were expelled from the group.  
   - Further infractions by the same member will result in stricter measures, as outlined above.
 
 ---
@@ -65,4 +66,8 @@ Doulet Media reserves the right to update these terms and conditions as needed. 
 ---
 
 **Sincerely,**  
-*Doulet Media Admin Team*
+*Doulet Media Admin Team* 
+
+---
+
+**Important Note**: We’re also running a ranking test between our bots, other bots, and human players in Go with Handicap (围棋让子棋) to assess the strength of our AI. You can check the rankings here: [Doulet Media Rankings](https://braacket.com/league/FB4930BD-51CF-474D-A7D9-60F872FF05EF/ranking)
